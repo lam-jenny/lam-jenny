@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🔭 I'm currently working on something cool!
+### 🌱 I'm currently learning Java!
+### 🤔 Finding useful resources for learning!
+### 📫 How to reach me: jennylam419@gmail.com
+### 😄 Pronouns: She/Her
+### ⚡ Fun fact: One thing on my bucket list is to visit Amsterdam!
