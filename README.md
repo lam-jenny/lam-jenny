@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I'm currently working on something cool!
 ### 🌱 I'm currently learning Java!
-### 🤔 Finding useful resources for learning!
+### 🤔 I’m looking for help with finding useful resources for learning!
 ### 📫 How to reach me: jennylam419@gmail.com
 ### 😄 Pronouns: She/Her
 ### ⚡ Fun fact: One thing on my bucket list is to visit Amsterdam!
